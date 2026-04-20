@@ -14,10 +14,9 @@ FreeCAD source and print export for a simple mount that attaches a lightweight V
 ## Files
 
 - `vesa_2020_profile_mount.FCStd` is the editable FreeCAD source model.
-- `vesa_2020_profile_mount.stl` is the current mesh export for printing.
-- `vesa_2020_profile_mount.*.FCBak` files are retained backup revisions.
+- `exports/vesa_2020_profile_mount.stl` is the current mesh export for printing.
 
 ## Notes
 
 - Intended for lighter VESA-mounted devices rather than heavier displays.
-- The model name and folder were renamed from the original generic `vesa` label to make the use case clearer.
+- Stored under `profile_2020/` together with other projects for 2020 aluminum profile.
